@@ -8,11 +8,5 @@ the foundations that let teams ship with confidence.
 - Unit & UI test infrastructure , XCTest, snapshot testing
 - Performance
 
-### Hobbies 
-- Triathlon 
-- Reading 
-- Travelling 
-- Teaching
-
 ### Find me
 - https://www.linkedin.com/in/cecicastillo/
