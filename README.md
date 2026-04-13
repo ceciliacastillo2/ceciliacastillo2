@@ -1,18 +1,18 @@
-# Hi, I'm Cecilia Castillo 👋
+#3 Hi, I'm Cecilia Castillo 👋
 iOS Engineer focused on architecture and infrastructure 
 the foundations that let teams ship with confidence.
 
-## Currently working on
+### Currently working on
 - ClaraCard  production iOS app
 - Modular iOS architecture
 - Unit & UI test infrastructure , XCTest, snapshot testing
 - Performance
 
-# Hobbies 
+### Hobbies 
 - Triathlon 
 - Reading 
 - Travelling 
 - Teaching
 
-## Find me
+### Find me
 - https://www.linkedin.com/in/cecicastillo/
