@@ -1,6 +1,6 @@
 ## Hi, I'm Cecilia Castillo 👋
 iOS Engineer focused on architecture and infrastructure 
-the foundations that let teams ship with confidence.
+the foundations that let IOS teams ship with confidence.
 
 ### Currently working on
 - ClaraCard  production iOS app
