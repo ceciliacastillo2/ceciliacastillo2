@@ -1,4 +1,4 @@
-#3 Hi, I'm Cecilia Castillo 👋
+## Hi, I'm Cecilia Castillo 👋
 iOS Engineer focused on architecture and infrastructure 
 the foundations that let teams ship with confidence.
 
